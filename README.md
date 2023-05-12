@@ -45,3 +45,9 @@ HTML parsing for kicks.
 ## To do
 
 - Add "hello world" examples for each entry
+
+## See also
+
+- Other "awesome web scraping" github repos
+- [How to analyse HAR files](https://gist.github.com/willsheppard/f0bdc1a2290f3d24d9579856ab5b7b53#file-jq_cheat_sheet-md)
+
